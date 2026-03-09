@@ -1,7 +1,3 @@
-Aqui está o **mesmo conteúdo reorganizado e formatado corretamente para README do GitHub**. Mantive a ideia do seu texto, mas organizei melhor títulos, espaçamentos e blocos de código — coisa que faz o README ficar bem mais profissional quando alguém abre o repositório.
-
----
-
 # 💚 Sistema de Gestão — Sociedade Esportiva Palmeiras
 
 Este projeto é uma **aplicação Web Fullstack** desenvolvida para centralizar informações sobre a história, elenco e curiosidades da **Sociedade Esportiva Palmeiras**.
@@ -157,5 +153,3 @@ Os principais recursos manipulados pelo sistema são:
 Projeto desenvolvido por **Bryan Machado da Costa e Silva**, aluno de **Sistemas de Informação da São Paulo Tech School (SPTech)**, sob orientação da professora **Fernanda Caramico**.
 
 > "Ser palmeirense é mais do que torcer; é carregar uma história de luta e glória que agora também faço parte ao codificar."
-
----
